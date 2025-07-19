@@ -1,5 +1,1137 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 22,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "May I have your attention please. It's time to begin our first session, and may I ask everyone to enter the hall and take his or her seat in preparation for us to begin, please. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 1 (man)"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "25d0e1c4-8932-4d51-96c8-a454c9d5c46d"
+    },
+    {
+      "start_time": 56,
+      "end_time": 77,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ladies and gentlemen, there is a barrier of space, and please, our discussions have not appeared. Won't you join us at the front of the room so that we can get back into the exchange, or [inaudible 00:01:11]? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "5848d2de-2c8b-4686-9c26-d5bba8245045"
+    },
+    {
+      "start_time": 771,
+      "end_time": 784,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Attention please. May I ask everyone present to please be seated. We're about to begin the opening session of the symposium. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Speaker 1 (man)"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "1e59f53b-f62d-441d-9dd4-06c9ae8d6e37"
+    },
+    {
+      "start_time": 857,
+      "end_time": 887,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ladies and gentlemen, seventy-six of you have moved into the electronic age. There are that many headsets. These headsets are intended to function by merely being put on. So that if you would like to try on your headset and see if you're getting sounds, you will be familiar with the way they function."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "071cbcd0-aeff-4119-9810-7095d1c89d0a"
+    },
+    {
+      "start_time": 888,
+      "end_time": 911,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The manager of our conference center informs me that he and his staff built the headsets. They are therefore not at the level of the United Nations. He blushes prettily over this, but we assume that the headsets will work reasonably well. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "United Nations"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "bdb5085a-9090-489a-8f73-5cdb95a39c17"
+    },
+    {
+      "start_time": 911,
+      "end_time": 960,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "They've been set for normal sound reception, whatever that is. If you find the sound too loud, it is suggested that you move the headset behind your ear, or a little away from the ear, if that does not become too tedious. Now, the headsets function as fashion: I am speaking, roughly, English. This should be communicated through the headsets in Spanish. Does that seem to be working? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "a59ea06c-9218-49f6-a4d2-0efd370e9371"
+    },
+    {
+      "start_time": 963,
+      "end_time": 998,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shortly, persons will be speaking Spanish, and the sounds coming through the headset will be in English. All clear? The gentleman standing to my right, Dr. William Glade, is the director of The Institute of Latin American Studies, and professor of economics. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Glade, William P."
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "The Institute of Latin American Studies"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "ead189e6-c229-43ed-aa13-bc530cdde252"
+    },
+    {
+      "start_time": 1000,
+      "end_time": 1048,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We at the University of Texas have, for long, had an extended focus toward the culture and affairs of the nations to the south of us. That interest has been expressed in impressive archive building, libraries, and imposing faculty, and through the coordinating and imaginative efforts of The Institute for Latin American Studies. It's particularly appropriate, then, that it's director and a prime sponsor of this conference welcome you to our sessions. Dr. Glade. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "organizations",
+          "tag": "University of Texas at Austin"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "The Institute of Latin American Studies"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "3ebafb69-4469-48db-ba01-33e7ab9f1944"
+    },
+    {
+      "start_time": 1059,
+      "end_time": 1094,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Estimados Sakai, Bayón, Goodall, Cardona, distinguished visitors, and cherished colleagues. A couple of Sundays ago, I found myself in another city faced with an unusual and altogether liberating prospect. Miraculously, most of the day was free of constraints, and there was the rare possibility of spending several hours exactly as one might choose, prompted only by the desires of the moment. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Glade, William P. (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Sakai, Kazuya, 1927-2001"
+        },
+        {
+          "category": "People",
+          "tag": "Bayón, Damián"
+        },
+        {
+          "category": "People",
+          "tag": "Goodall, Donald B."
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cardona, Rodolfo, 1924-"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "a403db06-ecc4-4c86-80fd-7219d085bb31"
+    },
+    {
+      "start_time": 1095,
+      "end_time": 1118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How fortunate I was that the opportunity presented itself to spend the day quietly with such splendid company as Alberto Giacometti, Mark Tobey, Jesus Soto, Victor Varsarely, Giacomo Manzú, Alicia Penalba, and a host of others who are no less inspired and inspiring. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Glade, William P. (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Giacometti, Alberto, 1901-1966"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tobey, Mark"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Soto, Jesús Rafael, 1923-2005"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Vasarely, Victor, 1906-1997"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Manzù, Giacomo, 1908-1991"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Penalba, Alicia, 1913-1982"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "71884279-33a9-4520-b330-3b56cdef394e"
+    },
+    {
+      "start_time": 1119,
+      "end_time": 1155,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Obviously, not all of these in individuals could possibly have been present in the customary sense at one spot in October, 1975. As a matter of fact, none of them was, but in a very real and very meaningful way, they were all indeed gathered together through their works at the Hirshhorn Museum in Washington DC. And the statements they had to make could not, I think, have been communicated in any more compelling or complete manner had they all been there in the flesh. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Glade, William P. (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "United States--District of Colombia--Washington"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hirshhorn Museum"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "49759365-281c-45bf-a10a-87465b563b55"
+    },
+    {
+      "start_time": 1158,
+      "end_time": 1181,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The opportunity to walk and sit for a few hours alongside the fruit of the labors of these painters and sculptors, to encounter them through their creations, to return again and again to particular artists and ask, in effect, \"What did you say?\" was as good a prelude as one could hope to have for the symposium we are inaugurating today. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Glade, William P. (man)"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "0e30e91d-add3-4f8e-8f86-0a1fc625825d"
+    },
+    {
+      "start_time": 1182,
+      "end_time": 1228,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "For one thing, there, as here, one was struck by the shimmering dialectics at work between the universal and the regional, between the general and the individual, between the cultural and the idiosyncratic. If Marx and other modern analysts of society have discovered the contradictions which set in motion the forces of history, so also the artists of the Hirshhorn, like their confreres elsewhere, had perceived with astonishing accuracy the contradictions between substance and form on which the whole edifice of contemporary artistic expression has been erected. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Glade, William P. (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hirshhorn Museum"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Substance and form in contemporary art"
+        }
+      ],
+      "uuid": "c6e5c752-b14c-409a-b4c6-83378761a45c"
+    },
+    {
+      "start_time": 1228,
+      "end_time": 1246,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "In the days ahead, it seems certain the thesis will be countered by antithesis time and time again, and that only when we arrive at the end of the discussions shall we perceive what measure of synthetic restatement and resolution may be possible. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Glade, William P. (man)"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "ecdc1cd2-a712-4238-a458-e84fd79660f3"
+    },
+    {
+      "start_time": 1249,
+      "end_time": 1262,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The second way in which the visit to the Hirshhorn foreshadowed our present concerns relates to the combinations of art and literature that make up the creative language of Latin America today. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Glade, William P. (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Hirshhorn Museum"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "ae98638b-4247-4b6a-8b2f-874dac32a6f7"
+    },
+    {
+      "start_time": 1265,
+      "end_time": 1286,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Washington, as is well known, is a city in which there is an absolutely enormous amount of talk, in which there are held many, many hearings, but in which, in truth, there is really very little listening apart from museums, concert halls, and the theaters. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Glade, William P. (man)"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "ede0637e-dc0a-4acc-8c85-d3af6e5f3982"
+    },
+    {
+      "start_time": 1288,
+      "end_time": 1317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yet, if we are to advance our understanding of what Latin American art and literature are asserting in the latter half of the 20th century, it is clear that we must, in a paradoxical transposition of senses, look carefully at what writers portray and listen attentively to what painters and sculptors may declare through their respective media. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Glade, William P. (man)"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Combination of art and literature"
+        }
+      ],
+      "uuid": "d6740187-81b3-41bd-9c17-7582670e71a2"
+    },
+    {
+      "start_time": 1319,
+      "end_time": 1354,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The imagery of the writer is most successful when we can see in our mind's eye what he describes and states. By the same token, the imagery of the painter or the sculptor seems truest when we can not only view what he has to say, but also hear it in our mind's ear. Speak out, \"Charla! Bate-Papo!\". We invite you. You have many willing, indeed eager, listeners to share your vision. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Glade, William P. (man)"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "b03d53f4-632b-431c-8e9d-ae5966ad107c"
+    },
+    {
+      "start_time": 1355,
+      "end_time": 1390,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "On behalf of the students, the staff, the faculty of The Institute of Latin American Studies, and of the University of Texas, I want to thank each of you for coming to be with us for this exciting occasion, and to express our profoundest appreciation to the Revista Floral and Excélsior for helping so generously to make this all possible. For indeed, the Revista Floral and Excélsior are co-sponsors of this entire symposium. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Glade, William P. (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "The Institute of Latin American Studies"
+        },
+        {
+          "category": "organizations",
+          "tag": "University of Texas at Austin"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Revista Floral"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Excélsior"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "42816a15-2611-4bef-87fe-740dd164824e"
+    },
+    {
+      "start_time": 1391,
+      "end_time": 1415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We are grateful to you for your insights and your wisdom, we celebrate the human warmth of your company, and we hope most sincerely that you will return again and again to Austin to renew the agreeable conversation of these days. Thank you. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Glade, William P. (man)"
+        },
+        {
+          "category": "Places",
+          "tag": "United States--Austin"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "6906cfb9-e68e-435a-88ba-ab6ef858d1dc"
+    },
+    {
+      "start_time": 1422,
+      "end_time": 1466,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, Dr. Glade. It is my chore to lead you through the thickets of procedure which this conference will follow, and I perhaps should give you my qualifications for leading people through thickets. On the last evening, while leading a social group to a neighboring household, I was guided by a young man from Argentina, and having lost my way home was helped to arrive by a young lady from Mexico. So, I'm sure will have the greatest confidence in the procedural recommendations, which I now offer you. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Glade, William P."
+        },
+        {
+          "category": "Places",
+          "tag": "Argentina"
+        },
+        {
+          "category": "Places",
+          "tag": "Mexico"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "70a6ef5a-d9d0-4830-90ea-2e38f499fd5a"
+    },
+    {
+      "start_time": 1467,
+      "end_time": 1505,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "But first things first. It's a measure of our very considerable gratitude that the ideas presented in this conference are of some interest, that Rufino Tamayo, who was here last week, has seen fit to come and join us again, and to sit as an honorary member of our panels to guide and comment for us. Rufino Tamayo, we welcome you, sir. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Tamayo, Rufino, 1899-1991"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "06ba2028-c908-4c7d-aa63-bbf1e4c640cb"
+    },
+    {
+      "start_time": 1514,
+      "end_time": 1560,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A man has just come in the door who 25 or 30 years ago, perhaps even 40, I don't know how long ago, was rapping on tables and calling our attention to the fact that there is and was a vital ascendant movement in the arts in Latin America. And by dint of persistence, brilliant showmanship, José Gómez-Sicre, who is the director of plastic arts, the only director of plastic arts of the OAS, has been a major forerunner in bringing us together at a time like this. Mr. Gómez-Sicre, we welcome you, sir. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Gómez Sicre, José"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Organization of American States"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "758106df-cdfa-4458-a848-0e0986144a63"
+    },
+    {
+      "start_time": 1572,
+      "end_time": 1620,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Our plan developed, as most plans, almost on a set of back steps or coming in or out of a building with Professor Rodolfo Cardona, chairman of the Department of Spanish and Portuguese at the university. We sought, during the occasion of the College of Fine Arts Celebration of the Arts of Latin America, led by our dean, Peter Garvey, to find a logical way of communicating with artisan writers in Latin America. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cardona, Rodolfo, 1924-"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Garvey, Peter"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "ad30dd47-5b50-4d33-b8f0-96d2a7e129ef"
+    },
+    {
+      "start_time": 1622,
+      "end_time": 1661,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And through these discussions, and discussions with our neighbors to the south, we were able to arrive at a very fortunate arrangement with a Revista Plural of Mexico City. That genuinely distinguished concentration of intellectuals in Mexico City, now publishing in its fourth year, approaching its 50th copy, has been one of the most coherent and impressive periodicals of art, literature and criticism in the Americas. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "Places",
+          "tag": "Mexico--Mexico City"
+        },
+        {
+          "category": "Places",
+          "tag": "Mexico"
+        },
+        {
+          "category": "organizations",
+          "tag": "Plural"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "17a5f567-f3c2-486e-941d-904b6eac2534"
+    },
+    {
+      "start_time": 1663,
+      "end_time": 1700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Through its director, Octavio Paz, the absolutely tireless energy of its editor-in-chief Kazuya Sakai, we were able to arrive at two points of agreement: One, an exhibition. The idea for the exhibition to be entitled Plural was that it would be an exhibition of Latin American work chosen by Latin Americans, but that the perimeters of the choices would relate to the publication activities of the magazine. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Paz, Octavio, 1914-1998"
+        },
+        {
+          "category": "People",
+          "tag": "Sakai, Kazuya, 1927-2001"
+        },
+        {
+          "category": "organizations",
+          "tag": "Plural"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art exhibition"
+        }
+      ],
+      "uuid": "57680042-68f8-4860-acc5-b187b6f31434"
+    },
+    {
+      "start_time": 1704,
+      "end_time": 1739,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Accordingly, Sakai, with our colleague here at the University of Texas professor Damián Bayón, whom we casually refer to as our French connection, between the two of them, an exhibition of the work of 12 persons was assembled, five or six of each person. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Sakai, Kazuya, 1927-2001"
+        },
+        {
+          "category": "People",
+          "tag": "Bayón, Damián"
+        },
+        {
+          "category": "organizations",
+          "tag": "University of Texas at Austin"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art exhibition"
+        }
+      ],
+      "uuid": "b8d252b9-9203-4e71-9d14-9c509c918b53"
+    },
+    {
+      "start_time": 1742,
+      "end_time": 1791,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And then, to expand upon this suggestion, we turned to Alejandro Otero for Caracas, in Caracas, Venezuela, and Alejandro was generous enough to provide us with a full-scale retrospective exhibition. I feel that in some fashion, we've not represented Alejandro as well as we should, because the late monumental sculpture, which he has been doing in the last few years, which is impossible to transport, is, to this viewer, among the most brilliant kinetic sculpture being produced in the hemisphere. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Otero, Alejandro"
+        },
+        {
+          "category": "Places",
+          "tag": "Venezuela"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Venezuela--Caracas"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art exhibition"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Kinetic sculpture"
+        }
+      ],
+      "uuid": "02eafeb5-ff52-4eac-bc79-f583b6b94485"
+    },
+    {
+      "start_time": 1793,
+      "end_time": 1807,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And with Otero, there is an expansion upon the suggestion of the Plural group, Edgar Negret, who had a one-man show at the Corcoran last year, is seen in 15 or 16 works. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Otero, Alejandro"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Negret, Edgar, 1920-2012"
+        },
+        {
+          "category": "organizations",
+          "tag": "Plural"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Corcoran Gallery of Art"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art exhibition"
+        }
+      ],
+      "uuid": "b7d681f9-0edf-4664-aaec-58100dc4e882"
+    },
+    {
+      "start_time": 1808,
+      "end_time": 1846,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Plural exhibition, then, is the visual evidence. We then hope with Plural to invite you to discuss with us ideas which we hope would be central to the considerations which face Latin American intellectuals at this point we've been arbitrary, perhaps, in limiting. The questions were settled upon after perhaps a year and a half of discussion, two trips to Latin America and discussions in five countries. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "organizations",
+          "tag": "Plural"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art exhibition"
+        }
+      ],
+      "uuid": "06ff708e-669d-4a35-987d-7a40d2cb512c"
+    },
+    {
+      "start_time": 1847,
+      "end_time": 1867,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The questions arrived at were then synthesized through the intelligence and energies of Sakai and Damián Bayón. And you are presented the skeleton of these questions in the program for these proceedings. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Ellison, Fred, 1912- (man)"
+        },
+        {
+          "category": "People",
+          "tag": "Sakai, Kazuya, 1927-2001"
+        },
+        {
+          "category": "People",
+          "tag": "Bayón, Damián"
+        },
+        {
+          "category": "subject headings",
+          "tag": "Art, Latin American"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Art and literature"
+        }
+      ],
+      "uuid": "aa295218-1e5b-415a-bec4-1707a3fe6ac4"
+    }
+  ],
   "set": "Default",
   "event_id": "9e2fdc4d-0d50-4eb9-88c5-bfa132ef5fda",
   "source_id": "de2bdd6c-d108-4573-bfe4-a4a1006eb9c6"
